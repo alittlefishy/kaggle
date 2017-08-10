@@ -43,6 +43,6 @@ Temporary Items
 .apdisk
 
 # Custom removals
-.ipynb_checkpoints
+.ipynb_checkpoints/
 */.ipynb_checkpoints/*
 
